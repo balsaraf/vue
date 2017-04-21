@@ -2,7 +2,7 @@
   "name": "vue_boilerplate",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "subha bera <subha.py@gmail.com>",
+  "author": "Asha Balsaraf<ashabalsaraf10@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
